@@ -1,0 +1,3 @@
+[submodule "hiragana_mojigazo"]
+	path = hiragana_mojigazo
+	url = https://github.com/ndl-lab/hiragana_mojigazo.git
