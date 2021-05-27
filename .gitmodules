@@ -1,3 +1,6 @@
 [submodule "hiragana_mojigazo"]
 	path = hiragana_mojigazo
 	url = https://github.com/ndl-lab/hiragana_mojigazo.git
+[submodule "etlcdb-image-extractor"]
+	path = etlcdb-image-extractor
+	url = https://github.com/choo/etlcdb-image-extractor.git
